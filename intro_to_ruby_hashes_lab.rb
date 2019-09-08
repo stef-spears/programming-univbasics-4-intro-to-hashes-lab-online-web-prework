@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
-   { vinyl: 30  }
+   { vinyl: 30, CDs: 11, Cassettes: 33 }
 end
 
 def pioneer
